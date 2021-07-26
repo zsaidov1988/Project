@@ -17,3 +17,18 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.site-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-heading {
+  text-align: center;
+  color: green;
+}
+
+.site-config-list {
+  border: 2px solid gray;
+}
